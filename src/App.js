@@ -1,5 +1,5 @@
 import { MissionUtils } from "@woowacourse/mission-utils";
-import getUserInput from "./getUserInput";
+import getUserInput from "./getUserInput.js";
 
 class App {
   async play() {
